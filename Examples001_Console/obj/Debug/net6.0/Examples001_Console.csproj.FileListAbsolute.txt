@@ -1,0 +1,15 @@
+D:\Женя\учеба\Examples\Examples001_Console\bin\Debug\net6.0\Examples001_Console.exe
+D:\Женя\учеба\Examples\Examples001_Console\bin\Debug\net6.0\Examples001_Console.deps.json
+D:\Женя\учеба\Examples\Examples001_Console\bin\Debug\net6.0\Examples001_Console.runtimeconfig.json
+D:\Женя\учеба\Examples\Examples001_Console\bin\Debug\net6.0\Examples001_Console.dll
+D:\Женя\учеба\Examples\Examples001_Console\bin\Debug\net6.0\Examples001_Console.pdb
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.csproj.AssemblyReference.cache
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.AssemblyInfoInputs.cache
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.AssemblyInfo.cs
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.csproj.CoreCompileInputs.cache
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.dll
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\refint\Examples001_Console.dll
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.pdb
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\Examples001_Console.genruntimeconfig.cache
+D:\Женя\учеба\Examples\Examples001_Console\obj\Debug\net6.0\ref\Examples001_Console.dll
